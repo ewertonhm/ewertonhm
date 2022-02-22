@@ -2,7 +2,10 @@
 {
    "first-name":"Ewerton",
    "last-name":"Marschalk",
-   "about-me":"Network systems, Cloud support, customer service, telecommunications services, operations professional who uses a combination of informal leadership and extensive knowledge of facilities and hardware management skills, along with structured operational standards to execute complex on time customer network installations or technical supporting incidents.",
+   "about-me":
+         "Network systems, Cloud support, customer service, telecommunications services, operations professional who uses a combination of informal leadership
+         and extensive knowledge of facilities and hardware management skills, along with structured operational standards to execute complex on time customer 
+         network installations or technical supporting incidents.",
    "technologies":[
       "Elastic Stack",
       "Zabbix",
