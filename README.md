@@ -11,6 +11,8 @@
       "Elastic Stack",
       "Zabbix",
       "CWMP - CPE WAN Management",
+      "Typescript",
+      "Node JS",
       "Go",
       "Python",
       "PHP",
