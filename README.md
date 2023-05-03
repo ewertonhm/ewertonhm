@@ -10,24 +10,23 @@
    "technologies":[
       "Elastic Stack",
       "Zabbix",
+      "Datadog",
       "CWMP - CPE WAN Management",
+      "Jenkins",
+      "Azure Devops",
+      "Harness",
+      "Gitlab CI/CD",
+      "Github Actions",
+      "Ansible",
+      "Puppet",
       "Typescript",
       "Node JS",
       "Go",
       "Python",
       "PHP",
-      "Javascript"
-   ],
-   "i-wear":[
-      "PyCharm",
-      "PHPStorm",
-      "GoLand",
-      "MobaXterm",
-      "DBeaver",
-      "SqlDBM",
-      "Postman"
-   ],
-   "operational-system":"RHEL 8, FreeBSD 13, and Windows 10"
+      "Javascript",
+      "dotnet"
+   ]
 }
 ```
 <h2></h2>	
