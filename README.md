@@ -7,26 +7,32 @@
          who uses a combination of informal leadership and extensive knowledge of facilities and hardware management skills, 
          along with structured operational standards to execute complex on time customer 
          network installations or technical supporting incidents.",
-   "technologies":[
-      "Elastic Stack",
-      "Zabbix",
-      "Datadog",
-      "CWMP - CPE WAN Management",
-      "Jenkins",
-      "Azure Devops",
-      "Harness",
-      "Gitlab CI/CD",
-      "Github Actions",
-      "Ansible",
-      "Puppet",
-      "Typescript",
-      "Node JS",
-      "Go",
-      "Python",
-      "PHP",
-      "Javascript",
-      "dotnet"
-   ]
+   Tecnologies: {
+      "Monitoring":[
+         "Elastic Stack",
+         "Zabbix",
+         "Datadog"
+      ],
+      "Programming Languages":[
+         "Typescript",
+         "Node JS",
+         "Go",
+         "Python",
+         "PHP",
+         "Javascript",
+         "dotnet"
+       ],
+       "CI/CD & Automation":[
+         "CWMP - CPE WAN Management",
+         "Jenkins",
+         "Azure Devops",
+         "Harness",
+         "Gitlab CI/CD",
+         "Github Actions",
+         "Ansible",
+         "Puppet"
+      ]
+   }   
 }
 ```
 <h2></h2>	
