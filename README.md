@@ -7,13 +7,13 @@
          who uses a combination of informal leadership and extensive knowledge of facilities and hardware management skills, 
          along with structured operational standards to execute complex on time customer 
          network installations or technical supporting incidents.",
-   Tecnologies: {
-      "Monitoring":[
+   "tecnologies": {
+      "monitoring":[
          "Elastic Stack",
          "Zabbix",
          "Datadog"
       ],
-      "Programming Languages":[
+      "programming-languages":[
          "Typescript",
          "Node JS",
          "Go",
@@ -22,7 +22,7 @@
          "Javascript",
          "dotnet"
        ],
-       "CI/CD & Automation":[
+       "ci-cd-and-automation":[
          "CWMP - CPE WAN Management",
          "Jenkins",
          "Azure Devops",
