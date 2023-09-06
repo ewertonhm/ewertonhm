@@ -38,10 +38,6 @@
 <h2></h2>	
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ewertonhm&theme=github_dark" alt="ewertonhm" align = "center"/></p>
 <h2></h2>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewertonhm&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="ewertonhm" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewertonhm&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="ewertonhm" align = "center"/></p>
-
-
 <!--
 **ewertonhm/ewertonhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
