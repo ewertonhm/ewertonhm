@@ -8,7 +8,7 @@ With a foundation in **network systems**, **cloud support**, and **telecom opera
 
 - **Observability**: Datadog · Elastic Stack · Zabbix  
 - **Programming**: Go · Python · Node.js · TypeScript · PHP · .NET  
-- **CI/CD & Automation**: GitHub Actions · GitLab CI · Jenkins · Azure DevOps · Harness · Ansible · Puppet · CWMP  
+- **CI/CD & Automation**: Terraform · GitHub Actions · GitLab CI · Jenkins · Azure DevOps · Harness · Ansible · Puppet · CWMP  
 
 🔍 I'm always looking for ways to improve system reliability, performance, and visibility — helping teams scale with confidence and clarity.
 
