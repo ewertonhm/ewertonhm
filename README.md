@@ -1,14 +1,16 @@
-## 👋 Olá, eu sou o Ewerton Marschalk
+## 👋 Hey, I'm Ewerton Marschalk
 
-🎯 **DevOps & Observability Engineer** com forte atuação em ambientes **cloud-native**, automação de infraestrutura e monitoramento com foco em **Datadog**. Tenho experiência com **redes, suporte técnico, telecom** e uma abordagem prática orientada à entrega — conectando times, ferramentas e boas práticas para garantir **visibilidade, performance e confiabilidade em ambientes distribuídos**.
+🎯 **DevOps & Observability Engineer** with a strong background in **cloud-native environments**, **infrastructure automation**, and **end-to-end monitoring** — currently focused on delivering high-impact observability solutions using **Datadog**.
 
-### 💻 Tecnologias e Ferramentas
+With a foundation in **network systems**, **cloud support**, and **telecom operations**, I bridge the gap between development and operations through automation, data-driven insights, and solid engineering practices.
+
+### 💻 Technologies I work with
 
 - **Observability**: Datadog · Elastic Stack · Zabbix  
-- **Linguagens**: Go · Python · Node.js · TypeScript · PHP · .NET  
-- **CI/CD & Automação**: GitHub Actions · GitLab CI · Jenkins · Azure DevOps · Harness · Ansible · Puppet · CWMP  
+- **Programming**: Go · Python · Node.js · TypeScript · PHP · .NET  
+- **CI/CD & Automation**: GitHub Actions · GitLab CI · Jenkins · Azure DevOps · Harness · Ansible · Puppet · CWMP  
 
-🔍 Sempre explorando novas formas de integrar **monitoramento inteligente**, **resiliência** e **eficiência operacional** nos fluxos de desenvolvimento e operação.
+🔍 I'm always looking for ways to improve system reliability, performance, and visibility — helping teams scale with confidence and clarity.
 
 ---
 
