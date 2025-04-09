@@ -1,54 +1,17 @@
-```
-{
-   "first-name":"Ewerton",
-   "last-name":"Marschalk",
-   "about-me":
-         "Devops Engineer, Network systems, Cloud support, customer service, telecommunications services, operations professional 
-         who uses a combination of informal leadership and extensive knowledge of facilities and hardware management skills, 
-         along with structured operational standards to execute complex on time customer 
-         network installations or technical supporting incidents.",
-   "tecnologies": {
-      "monitoring":[
-         "Elastic Stack",
-         "Zabbix",
-         "Datadog"
-      ],
-      "programming-languages":[
-         "Typescript",
-         "Node JS",
-         "Go",
-         "Python",
-         "PHP",
-         "Javascript",
-         "dotnet"
-       ],
-       "ci-cd-and-automation":[
-         "CWMP - CPE WAN Management",
-         "Jenkins",
-         "Azure Devops",
-         "Harness",
-         "Gitlab CI/CD",
-         "Github Actions",
-         "Ansible",
-         "Puppet"
-      ]
-   }   
-}
-```
-<h2></h2>	
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ewertonhm&theme=github_dark" alt="ewertonhm" align = "center"/></p>
-<h2></h2>
-<!--
-**ewertonhm/ewertonhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá, eu sou o Ewerton Marschalk
 
-Here are some ideas to get you started:
+🎯 **DevOps & Observability Engineer** com forte atuação em ambientes **cloud-native**, automação de infraestrutura e monitoramento com foco em **Datadog**. Tenho experiência com **redes, suporte técnico, telecom** e uma abordagem prática orientada à entrega — conectando times, ferramentas e boas práticas para garantir **visibilidade, performance e confiabilidade em ambientes distribuídos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas
+
+- **Observability**: Datadog · Elastic Stack · Zabbix  
+- **Linguagens**: Go · Python · Node.js · TypeScript · PHP · .NET  
+- **CI/CD & Automação**: GitHub Actions · GitLab CI · Jenkins · Azure DevOps · Harness · Ansible · Puppet · CWMP  
+
+🔍 Sempre explorando novas formas de integrar **monitoramento inteligente**, **resiliência** e **eficiência operacional** nos fluxos de desenvolvimento e operação.
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ewertonhm&theme=github_dark" alt="ewertonhm"/>
+</p>
